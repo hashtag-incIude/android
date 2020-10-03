@@ -11,6 +11,8 @@ This document will guide you to build the application on a Linux machine with An
 
 * [Android SDK Tools](http://developer.android.com/intl/es/sdk/index.html#Other)
 
+A software development kit or an SDK is a compilation of software development tools in one installable package. You can expect these kits to mostly have all the tools necessary to code programs from scratch and even test them. As such, you can expect to find compiling tools, debugging tools, and maybe a software framework. 
+
 * [Android NDK](http://developer.android.com/intl/es/ndk/downloads/index.html)
 
 ### Build & Run the application
